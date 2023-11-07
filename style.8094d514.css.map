@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,KAEE,SACF,CAEA,OAJE,QAOF,CAHA,EAEE,WACF","file":"style.8094d514.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\nbody {\n  margin: 0;\n  padding: 0;\n}\n\np {\n  margin: 0;\n  padding: 8px;\n}\n"]}
